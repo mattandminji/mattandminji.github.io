@@ -1,3 +1,7 @@
+.content__title {
+    margin-top:10px;
+}
+
 #custom #wrap .content__title {
     color: #ff6969;
 }
