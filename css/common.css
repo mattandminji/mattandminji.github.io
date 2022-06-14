@@ -1,9 +1,9 @@
 @import url(reset.css);
 #wrap{width:100%;position:relative;}
 #main{width:100%;padding:5% 0;}
-#main .dDay{color:#fff;font-size:1em;background-color:#a2a5a7;width:30%;height:25px;margin:20% auto;vertical-align:middle;padding-top:5px;border-radius:5px;ling-height:200px;}
+#main .dDay{color:#fff;font-size:1em;background-color:#d0d0d0;width:30%;height:25px;margin:20% auto;vertical-align:middle;padding-top:5px;border-radius:5px;ling-height:200px;}
 #main .dDay span{font-size:1.2em;font-weight:bold;}
-#main .top_wrap_text{color:#ff6969;font-weight:bold;font-size:1.2em;}
+#main .top_wrap_text{color:#8e80fc;font-weight:bold;font-size:1.0em;}
 
 #main .mainPic{width:100%;margin-top:7%;margin-bottom:3%;}
 #main .mainPic img{width:95%;margin-top:70px;}
@@ -13,7 +13,7 @@
 
 #main .top_wrap_text2{font-size:0.7em;line-height:1.5em;color:#939597;margin-top:30px;}
 #main .top_wrap_text3{font-size:2em;line-height:1.3em;color:#221e1f;margin-top:30px;}
-#main .top_wrap_text3 .top_wrap_text3_s1{font-size:0.5em;color:#f3899b;}
+#main .top_wrap_text3 .top_wrap_text3_s1{font-size:0.5em;color:#8e80fc}
 #main .top_wrap_text3 .top_wrap_text3_s2{font-size:0.7em;}
 #main .top_wrap_line{border:1px solid #221e1f;width:5%;margin:30px auto;}
 #main .top_wrap_text4{font-size:1em;line-height:1.5em;}
