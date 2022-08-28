@@ -116,13 +116,13 @@
     position: relative;
     text-align: center;
     font-weight: 600;
-    padding: 70px;
+    padding: 40px;
     color: #333;
     line-height: 1.6;
 }
 
 #custom #wrap .ending-bg {
-    background-image:url(../img/endingBG.jpg);
+    background-color: #cce2ff;
     width: 100%;
     height: 265px;
     background-size: cover;
