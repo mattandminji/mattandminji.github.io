@@ -195,8 +195,12 @@
     height: auto;
 }
 
-#custom #content .con_box .con_txt {
+#custom #content .con_box {
     font-size: .8rem;
+}
+
+.con_txt {
+    font-size: 1.2rem;
 }
 
 #custom #content .content-right {
